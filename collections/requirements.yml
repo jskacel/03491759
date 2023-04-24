@@ -1,0 +1,5 @@
+---
+- name: test-role
+  src: https://github.com/jskacel/test-role
+  scm: git
+  version: main
