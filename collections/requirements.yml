@@ -1,5 +1,5 @@
 ---
-collections:
+dependencies:
   - name: test-role
     src: https://github.com/jskacel/test-role
     scm: git
